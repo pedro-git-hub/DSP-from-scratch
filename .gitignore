@@ -1,0 +1,25 @@
+# *** C/C++ Build Artifacts ***
+*.o
+*.obj
+*.d
+*.su
+
+# *** Executables and Binaries ***
+*.elf
+*.bin
+*.hex
+*.map
+*.out
+a.out
+
+# *** Libraries ***
+*.a
+*.so
+*.dll
+
+# *** Build Directories ***
+
+build/
+bin/
+debug/
+release/
