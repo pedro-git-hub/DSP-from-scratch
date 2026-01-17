@@ -1,1 +1,1 @@
-DSP/Signal Theory Projects Repositor.
+DSP/Signal Theory Projects Repository.
