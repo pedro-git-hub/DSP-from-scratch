@@ -28,7 +28,7 @@ void time_shift();
  *
  * Doesnt return any values.
  * */
-void time_inversor();
+void time_inverter();
 
 
 
